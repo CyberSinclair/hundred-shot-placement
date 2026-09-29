@@ -1,0 +1,12 @@
+step,rows_remaining,removed
+Raw dataset,2442,0
+Legal deliveries only,2333,109
+Drop null FieldX / FieldY (target),2216,117
+Drop null core delivery features,2216,0
+Drop null Shot,2205,11
+Remove not-hit deliveries,1931,274
+Drop null SwingAngle / DropAngle,1928,3
+Drop null Release coordinates,1896,32
+Drop null Speed,1896,0
+Drop null BounceAngle / ReleaseAngle,1896,0
+Drop null Feet,1892,4

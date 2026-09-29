@@ -1,0 +1,79 @@
+feature,importance,rank,group
+Length_Full,0.04221035,1,delivery type
+Length_Yorker,0.041240077,2,delivery type
+is_left_handed,0.036785048,3,game state
+PastY,0.028503895,4,ball tracking
+PitchY,0.028417356,5,ball tracking
+Pitchside Fielder 6 Y,0.020667167,6,fielder
+balls_remaining,0.018110873,7,game state
+Length_Short,0.01795979,8,delivery type
+Line_Wide Outside Off,0.016925635,9,delivery type
+ImpactY,0.016597267,10,ball tracking
+Pitchside Fielder 2 X,0.016520172,11,fielder
+Pitchside Fielder 7 X,0.01619128,12,fielder
+Pitchside Fielder 5 X,0.016042696,13,fielder
+Pitchside Fielder 3 X,0.015869878,14,fielder
+Length_Back Of Length,0.015793692,15,delivery type
+PitchX,0.015769813,16,ball tracking
+Line_Leg Stump,0.01566963,17,delivery type
+Line_Leg Wide,0.01517207,18,delivery type
+Pitchside Fielder 1 Y,0.01515166,19,fielder
+Pitchside Fielder 9 Y,0.014793025,20,fielder
+Delivery_Turn Away,0.01477386,21,delivery type
+Bowler Type_LF,0.01359523,22,delivery type
+Pitchside Fielder 4 X,0.013486602,23,fielder
+Keeper Up,0.01346737,24,game state
+ImpactX,0.013304232,25,ball tracking
+Pitchside Fielder 9 X,0.013219593,26,fielder
+Delivery_Seam Away,0.013174571,27,delivery type
+Pitchside Fielder 7 Y,0.012684882,28,fielder
+Bowler Type_RFM,0.01259699,29,delivery type
+Length_Good,0.012589854,30,delivery type
+Pitchside Fielder 6 X,0.0125716925,31,fielder
+Pitchside Fielder 3 Y,0.012513888,32,fielder
+Team Wickets,0.01219336,33,game state
+Line_Off Stump,0.012145268,34,delivery type
+Line_Outside Off,0.011529207,35,delivery type
+Line_Middle Stump,0.011486639,36,delivery type
+Bowler Type_LM,0.011379454,37,delivery type
+Bowler Type_RF,0.011269666,38,delivery type
+Pitchside Fielder 2 Y,0.011227939,39,fielder
+Pitchside Fielder 1 X,0.011094291,40,fielder
+Pitchside Fielder 4 Y,0.011041745,41,fielder
+Delivery_Swing In,0.010909463,42,delivery type
+Delivery_No Movement,0.010900014,43,delivery type
+PastZ,0.010835092,44,ball tracking
+Pitchside Fielder 8 X,0.010502218,45,fielder
+ReleaseAccelerationZ,0.0100867,46,ball tracking
+Team Runs,0.010051984,47,game state
+Req Run Rate At Start,0.0099208355,48,game state
+Pitchside Fielder 8 Y,0.009718111,49,fielder
+Bowler Type_LOB,0.0096011665,50,delivery type
+Delivery_No Turn,0.009574157,51,delivery type
+DropAngle,0.009467756,52,ball tracking
+Bowler Type_LFM,0.00941492,53,delivery type
+Delivery_Seam In,0.009389093,54,delivery type
+Speed,0.009373083,55,ball tracking
+Pitchside Fielder 5 Y,0.009364566,56,fielder
+BounceAngle,0.009281071,57,ball tracking
+Bowler Type_ROB,0.009134646,58,delivery type
+SwingAngle,0.009097543,59,ball tracking
+Cumulative Batter Balls,0.009094038,60,game state
+PastX,0.009020125,61,ball tracking
+ReleaseY,0.009014225,62,ball tracking
+ReleaseZ,0.008996642,63,ball tracking
+Deviation,0.008982688,64,ball tracking
+ReleaseX,0.008952802,65,ball tracking
+ImpactZ,0.008943448,66,ball tracking
+ReleaseAccelerationY,0.0088050645,67,ball tracking
+Around the Wicket,0.008722472,68,game state
+Cumulative Batter Runs,0.008638856,69,game state
+ReleaseAngle,0.008487111,70,ball tracking
+Bowler Type_RM,0.008297139,71,delivery type
+Delivery_Turn In,0.007850828,72,delivery type
+is_second_innings,0.007233003,73,game state
+Delivery_Swing Away,0.0069545223,74,delivery type
+Bowler Type_RLB,0.0052699666,75,delivery type
+is_powerplay,0.004376957,76,game state
+Free Hit,0.0,77,game state
+Length_Bouncer,0.0,78,delivery type

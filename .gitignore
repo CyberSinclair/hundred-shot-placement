@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Outputs from local runs (the committed example lives in examples/)
+outputs/
+outputs_*/
+
+# Real data must never be committed (data sharing agreement)
+data/raw/
+*.xlsx
+*.xls
+*.pkl
+*.npy
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

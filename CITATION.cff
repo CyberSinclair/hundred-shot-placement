@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the dissertation."
+title: "Predicting Batting Shot Placement in The Hundred: Expected Zones versus Actual Outcomes"
+type: software
+authors:
+  - family-names: Sinclair
+    given-names: David
+date-released: 2026-08-13
+license: MIT
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/hundred-shot-placement"
+keywords:
+  - cricket
+  - sports analytics
+  - xgboost
+  - off-policy evaluation
+  - k-means

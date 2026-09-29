@@ -1,0 +1,42 @@
+{
+  "data": "data/sample/synthetic_raw.csv",
+  "fast": false,
+  "k": 8,
+  "repair": {
+    "rows_repaired": 1630,
+    "ball_type_restored": 1.0,
+    "sentinel_remaining": 0
+  },
+  "cleaning": {
+    "final_rows": 1892,
+    "matches": 12
+  },
+  "model": {
+    "accuracy": 0.4608879492600423,
+    "weighted_f1": 0.4419320972862358,
+    "macro_f1": 0.3865373221426152,
+    "majority_baseline": 0.22304439746300211,
+    "random_baseline": 0.125,
+    "improvement_over_baseline": 0.23784355179704017,
+    "n_deliveries": 1892,
+    "mean_match_accuracy": 0.4614312882869261,
+    "sd_match_accuracy": 0.04666559990105643,
+    "n_matches": 12
+  },
+  "fielder_gain_share": 0.24266138672828674,
+  "backtest": {
+    "mean_runs_followed": 0.9575688073394495,
+    "mean_runs_not_followed": 1.4823529411764707
+  },
+  "ope": {
+    "behaviour": 1.2404862579281184,
+    "DM": 0.9873866316413035,
+    "IPS": 0.7361160996899583,
+    "SNIPS": 0.9842578057526776,
+    "DR": 1.0087161994527933,
+    "DR_uplift": -0.23177005847532506,
+    "uplift_ci_low": -0.3172428646415372,
+    "uplift_ci_high": -0.15153472254530512
+  },
+  "runtime_seconds": 87.2
+}
