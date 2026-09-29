@@ -10,7 +10,7 @@ A machine learning pipeline that learns shot zones from ball-tracking data, pred
 [![XGBoost](https://img.shields.io/badge/XGBoost-gradient%20boosting-2a78d6)](https://xgboost.readthedocs.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-k--means%20%7C%20CV-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![statsmodels](https://img.shields.io/badge/statsmodels-CMH%20tests-4a3aa7)](https://www.statsmodels.org/)
-[![Tests](https://github.com/YOUR-GITHUB-USERNAME/hundred-shot-placement/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR-GITHUB-USERNAME/hundred-shot-placement/actions/workflows/tests.yml)
+[![Tests](https://github.com/CyberSinclair/hundred-shot-placement/actions/workflows/tests.yml/badge.svg)](https://github.com/CyberSinclair/hundred-shot-placement/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 MSc Data Science dissertation · University of Sussex · 2026
@@ -259,7 +259,7 @@ Being clear about these is part of the result.
 ## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/hundred-shot-placement.git
+git clone https://github.com/CyberSinclair/hundred-shot-placement.git
 cd hundred-shot-placement
 python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
@@ -328,7 +328,7 @@ hundred-shot-placement/
 
 **Dissertation:** *Predicting Batting Shot Placement in The Hundred: Expected Zones versus Actual Outcomes*, MSc Data Science, University of Sussex, August 2026. Supervised by James Van Yperen.
 
-**Author:** David Sinclair · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Website](https://YOUR-WEBSITE)
+**Author:** David Sinclair · [LinkedIn](https://www.linkedin.com/in/david-s-sinclair-a377987a/) · [GitHub](https://github.com/CyberSinclair)
 
 Thanks to Hampshire Cricket Club for access to the ball-by-ball data, and to James Van Yperen for repeatedly asking exactly what was being measured and how.
 
